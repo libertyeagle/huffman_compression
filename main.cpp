@@ -1,6 +1,8 @@
 #include <iostream>
 #include <fstream>
 #include <queue>
+#include <string>
+#include <cstring>
 
 const int R = 256;
 
